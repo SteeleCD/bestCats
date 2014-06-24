@@ -1,0 +1,3 @@
+busyHome	independent	firstCat	playful	lapCat	smallerHome	garden	otherCats	dogs
+
+yes	maybe	no	yes	maybe	no	yes	maybe	no 
